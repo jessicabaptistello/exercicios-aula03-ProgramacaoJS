@@ -1,1 +1,1 @@
-# exerc-cios-aula-03-Programa-o-JS
+# exercicios-aula-03-Programacao-JS
